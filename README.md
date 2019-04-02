@@ -4,4 +4,5 @@ A simple web app which detects Devnagari letters drawn by the user on canvas usi
 
 Technology used:<br/>
 1: P5JS<br/>
-2: Keras
+2: Flask<br/>
+3: Keras
